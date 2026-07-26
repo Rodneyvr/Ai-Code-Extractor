@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.wxt/
+.env
+.env.local
+*.log
+.DS_Store
+*.zip
+.idea/
+.vscode/
+*.swp
+*.swo
+~*
+.turbo/
+.eslintcache
+coverage/
